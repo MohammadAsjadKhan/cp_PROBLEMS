@@ -1,1 +1,2 @@
-Problems : https://www.codechef.com/problems/school/
+competitive programming problems.
+Language : c, cpp.
